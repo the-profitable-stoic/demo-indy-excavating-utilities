@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Indy Excavating & Utilities",
+    "phone": "+13179541377",
+    "category": "excavation contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Excavation Experts",
+      "heroSubline": "Indy Excavating & Utilities: Delivering reliable excavation and utility solutions across Central Indiana. Trusted partner for residential and commercial projects.",
+      "aboutTitle": "Excavating Indianapolis with Integrity",
+      "aboutText": [
+        "Indy Excavating & Utilities started with a simple goal: to provide honest, reliable excavation services to our neighbors in Indianapolis and the surrounding areas. We're not just moving dirt; we're building foundations for our community's future.",
+        "Our approach is straightforward: understand the project, plan meticulously, and execute with precision. We value clear communication, respect for your property, and a commitment to getting the job done right, on time, and within budget. We understand the unique challenges of Indianapolis soil and weather.",
+        "As a local Indianapolis business, we're invested in the success of our community. We actively support local initiatives and strive to minimize our environmental impact on Central Indiana. We're proud to be part of the Indianapolis landscape."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Team",
+          "description": "Decades of combined experience navigating Indianapolis' unique soil conditions and project requirements."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, prepared, and ready to work. Your project timeline is our priority."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates upfront."
+        },
+        {
+          "title": "Safety First",
+          "description": "Safety is paramount. We adhere to the highest safety standards to protect our team and your property."
+        }
+      ],
+      "ctaHeadline": "Ready to Break Ground?",
+      "ctaSubline": "Contact Indy Excavating & Utilities for a free consultation and estimate. Let's discuss your project today!"
+    },
+    "services": [
+      {
+        "slug": "site-preparation",
+        "name": "Site Preparation",
+        "shortDescription": "Comprehensive site preparation services for residential and commercial construction projects.",
+        "description": "Proper site preparation is crucial for any successful construction project. We handle everything from initial clearing and grubbing to precise grading and compaction, ensuring a stable and level foundation for your building. Our team understands the challenges presented by Indianapolis' clay-rich soil and freeze-thaw cycles and employs proven techniques to mitigate potential issues. We also manage erosion control and drainage to protect your property and the surrounding environment. Whether you're building a new home in Carmel, a commercial development in Fishers, or expanding in Noblesville, we'll prepare your site for success.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Clearing and Grubbing",
+          "Step 3: Grading and Compaction",
+          "Step 4: Erosion Control and Drainage"
+        ],
+        "benefits": [
+          "Stable and Level Foundation",
+          "Proper Drainage and Erosion Control",
+          "Reduced Risk of Soil Issues",
+          "Compliance with Local Regulations"
+        ],
+        "faq": [
+          {
+            "question": "What does site preparation include?",
+            "answer": "Site preparation encompasses clearing vegetation, removing obstacles, grading the land to the correct elevation, compacting the soil for stability, and establishing proper drainage to prevent water damage."
+          },
+          {
+            "question": "Why is site preparation important?",
+            "answer": "Proper site preparation ensures a solid foundation for construction, preventing structural problems, water damage, and costly repairs down the line. It's a critical step in any building project."
+          },
+          {
+            "question": "How long does site preparation take?",
+            "answer": "The duration of site preparation varies depending on the size and complexity of the project, soil conditions, and weather. We'll provide a realistic timeline during the initial assessment."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-excavation",
+        "name": "Foundation Excavation",
+        "shortDescription": "Precise and reliable foundation excavation for new construction and additions.",
+        "description": "A solid foundation starts with accurate excavation. We specialize in foundation excavation for residential and commercial buildings, ensuring precise dimensions and proper depth to meet engineering specifications. We understand the importance of proper drainage and backfilling to protect your foundation from water damage and soil erosion, common issues in Indianapolis. Our experienced operators utilize advanced equipment to minimize disruption to your property and ensure a safe working environment. Whether you're building a new home in Broad Ripple or adding an addition in Meridian-Kessler, we'll provide a stable and reliable foundation for your project.",
+        "process": [
+          "Step 1: Layout and Marking",
+          "Step 2: Excavation to Specified Depth",
+          "Step 3: Footing Preparation",
+          "Step 4: Backfilling and Compaction"
+        ],
+        "benefits": [
+          "Accurate Excavation to Engineering Specs",
+          "Proper Drainage and Backfilling",
+          "Stable and Reliable Foundation",
+          "Minimized Disruption to Property"
+        ],
+        "faq": [
+          {
+            "question": "How deep do you excavate for a foundation?",
+            "answer": "The depth of foundation excavation depends on several factors, including soil type, frost line, and building codes. We'll consult with your engineer and local authorities to determine the appropriate depth."
+          },
+          {
+            "question": "What type of equipment do you use for foundation excavation?",
+            "answer": "We utilize a range of equipment, including excavators, backhoes, and skid steers, depending on the size and complexity of the project. All our equipment is well-maintained and operated by experienced professionals."
+          },
+          {
+            "question": "How do you ensure proper drainage around the foundation?",
+            "answer": "We install drainage systems, such as French drains, and ensure proper grading to direct water away from the foundation. We also use waterproof membranes to protect the foundation walls from moisture penetration."
+          }
+        ]
+      },
+      {
+        "slug": "utility-trenching",
+        "name": "Utility Trenching",
+        "shortDescription": "Safe and efficient utility trenching for water, sewer, gas, and electrical lines.",
+        "description": "Installing or repairing underground utilities requires precision and expertise. We provide safe and efficient utility trenching services for water, sewer, gas, and electrical lines. Our team is experienced in working around existing utilities and adhering to strict safety regulations to prevent damage and ensure the safety of our crew and the public. We use specialized equipment to minimize disruption to your property and restore the landscape to its original condition after the trenching is complete. From new construction in Fishers to utility upgrades in Noblesville, we'll handle your utility trenching needs with professionalism and care.",
+        "process": [
+          "Step 1: Utility Locating and Marking",
+          "Step 2: Trenching to Specified Depth and Width",
+          "Step 3: Pipe or Conduit Installation",
+          "Step 4: Backfilling and Compaction"
+        ],
+        "benefits": [
+          "Safe and Efficient Trenching",
+          "Minimal Disruption to Property",
+          "Compliance with Safety Regulations",
+          "Restoration of Landscape"
+        ],
+        "faq": [
+          {
+            "question": "Do you locate existing utilities before trenching?",
+            "answer": "Yes, absolutely. We contact the Indiana 811 service to locate and mark all underground utilities before we begin any excavation work. This is a crucial step to prevent damage and ensure safety."
+          },
+          {
+            "question": "What safety precautions do you take during utility trenching?",
+            "answer": "We adhere to strict safety regulations, including shoring or sloping trench walls to prevent collapse, providing proper ventilation, and using personal protective equipment. Our team is trained in trench safety procedures."
+          },
+          {
+            "question": "How do you restore the landscape after trenching?",
+            "answer": "We carefully backfill the trench with compacted soil and restore the landscape to its original condition, including reseeding or replacing sod as needed."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Effective drainage solutions to prevent water damage and erosion on your property.",
+        "description": "Standing water can cause significant damage to your property. We offer a range of drainage solutions to address water runoff, erosion, and flooding problems. Our team will assess your property, identify the source of the problem, and design a customized drainage system to effectively manage water flow. We install French drains, swales, culverts, and other drainage structures to protect your foundation, landscaping, and surrounding environment. Whether you're dealing with a soggy lawn in Carmel or erosion issues in Noblesville, we can help you find a lasting drainage solution.",
+        "process": [
+          "Step 1: Site Assessment and Problem Identification",
+          "Step 2: Drainage System Design",
+          "Step 3: Installation of Drainage Structures",
+          "Step 4: Testing and Adjustment"
+        ],
+        "benefits": [
+          "Prevention of Water Damage",
+          "Erosion Control",
+          "Improved Property Value",
+          "Customized Drainage System"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor drainage?",
+            "answer": "Signs of poor drainage include standing water, soggy soil, erosion, basement leaks, and foundation cracks. If you notice any of these issues, it's important to address them promptly."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe. It allows water to flow through the gravel and into the pipe, which then carries the water away from the problem area."
+          },
+          {
+            "question": "How much does a drainage system cost?",
+            "answer": "The cost of a drainage system varies depending on the complexity of the project, the type of drainage structures required, and the size of the property. We'll provide a detailed estimate after assessing your property."
+          }
+        ]
+      },
+      {
+        "slug": "demolition-services",
+        "name": "Demolition Services",
+        "shortDescription": "Safe and efficient demolition services for residential and commercial structures.",
+        "description": "When it's time to remove an old structure, you need a demolition team you can trust. We provide safe and efficient demolition services for residential and commercial buildings, ensuring minimal disruption to the surrounding area. Our team is experienced in handling all types of demolition projects, from small sheds to large commercial buildings. We prioritize safety and environmental responsibility, ensuring proper disposal of debris and minimizing dust and noise pollution. Whether you're clearing a site for new construction in Indianapolis or removing a dilapidated building in Irvington, we'll handle your demolition needs with professionalism and expertise.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Permitting and Utility Disconnection",
+          "Step 3: Demolition and Debris Removal",
+          "Step 4: Site Cleanup and Restoration"
+        ],
+        "benefits": [
+          "Safe and Efficient Demolition",
+          "Proper Debris Disposal",
+          "Minimal Disruption to Surroundings",
+          "Site Cleanup and Restoration"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for demolition?",
+            "answer": "Yes, you typically need a permit for demolition. We can assist you with the permitting process and ensure compliance with local regulations."
+          },
+          {
+            "question": "How do you dispose of demolition debris?",
+            "answer": "We dispose of demolition debris in an environmentally responsible manner, recycling materials whenever possible and disposing of non-recyclable waste at licensed landfills."
+          },
+          {
+            "question": "How long does demolition take?",
+            "answer": "The duration of demolition varies depending on the size and complexity of the structure. We'll provide a realistic timeline during the initial assessment."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Professional land clearing services for construction, development, and agriculture.",
+        "description": "Preparing land for construction, development, or agricultural use requires specialized equipment and expertise. We provide professional land clearing services, removing trees, brush, and other vegetation to create a clear and usable site. Our team is experienced in handling all types of land clearing projects, from small residential lots to large commercial properties. We prioritize environmental responsibility, minimizing soil disturbance and protecting sensitive areas. Whether you're developing a new subdivision in Carmel or preparing agricultural land in Noblesville, we'll clear your land efficiently and effectively.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Tree and Brush Removal",
+          "Step 3: Stump Grinding and Removal",
+          "Step 4: Debris Removal and Site Cleanup"
+        ],
+        "benefits": [
+          "Efficient and Effective Land Clearing",
+          "Minimal Soil Disturbance",
+          "Protection of Sensitive Areas",
+          "Site Cleanup and Restoration"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer stump grinding services?",
+            "answer": "Yes, we offer stump grinding and removal services to eliminate unsightly stumps and prevent regrowth."
+          },
+          {
+            "question": "How do you protect the environment during land clearing?",
+            "answer": "We minimize soil disturbance, protect sensitive areas, and implement erosion control measures. We also dispose of debris in an environmentally responsible manner."
+          },
+          {
+            "question": "How much does land clearing cost?",
+            "answer": "The cost of land clearing varies depending on the size of the property, the type of vegetation to be removed, and the terrain. We'll provide a detailed estimate after assessing your property."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities is proud to offer comprehensive excavation services to the residents and businesses of Carmel, Indiana. Known for its upscale residential developments built primarily between the 1980s and 2000s, Carmel presents unique challenges and opportunities when it comes to excavation projects. We understand the specific needs of Carmel homeowners and businesses and are committed to providing reliable and efficient services.\n\nOur team is experienced in handling a wide range of excavation projects in Carmel, from foundation work for new construction and home additions to drainage solutions and utility line installations. We are also prepared to deal with the cold Indiana winters, ensuring that projects are completed safely and on schedule, even in snowy and icy conditions. Indy Excavating & Utilities prioritizes clear communication, attention to detail, and customer satisfaction in every project we undertake.",
+        "localContext": "Carmel's landscape is characterized by well-maintained lawns and planned communities, requiring careful and precise excavation techniques to minimize disruption and preserve the aesthetic appeal.",
+        "nearbyAreas": [
+          "Fishers",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities provides expert excavation services to the growing community of Fishers, Indiana. With its abundance of newer, master-planned communities developed from the 1990s through the 2020s, Fishers presents a variety of excavation needs for residential and commercial properties. We are dedicated to providing top-quality workmanship and exceptional customer service to the residents and businesses of Fishers.\n\nWe specialize in excavation services tailored to the needs of Fishers' planned communities, including site preparation, foundation digging, utility trenching, and drainage solutions. Our team is equipped to handle the challenges of working in established neighborhoods, ensuring minimal disruption to residents and preserving the integrity of existing landscaping. Indy Excavating & Utilities is committed to providing reliable and efficient services, even during the cold Indiana winters.",
+        "localContext": "Fishers' relatively new construction and emphasis on community planning means that excavation projects often require close coordination with homeowners associations and adherence to specific development guidelines.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities is pleased to serve the residents and businesses of Noblesville, Indiana, offering professional excavation services with a focus on quality and reliability. From the historic Courthouse Square area to the newer residential developments, Noblesville presents a diverse range of excavation needs. We are committed to providing efficient and cost-effective solutions for all your excavation projects.\n\nOur team is experienced in working on a variety of properties in Noblesville, including older homes in the historic district and newer construction projects. We understand the unique challenges of working in older neighborhoods, such as dealing with outdated utility lines and preserving the historical character of the area. Indy Excavating & Utilities is also prepared to handle the cold Indiana winters, ensuring that projects are completed safely and on schedule, even in snowy and icy conditions.",
+        "localContext": "Noblesville's blend of historic homes and modern development requires an excavation approach that balances preservation with the needs of new construction and infrastructure.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities is your trusted partner for excavation services in Indianapolis, Indiana. As the state's capital and largest city, Indianapolis presents a diverse range of excavation needs, from residential projects to large-scale commercial developments. We are committed to providing reliable, efficient, and cost-effective solutions for all your excavation needs.\n\nOur team is equipped to handle a wide variety of excavation projects throughout Indianapolis, including site preparation, foundation work, utility trenching, and drainage solutions. We understand the unique challenges of working in a large urban environment, such as navigating traffic congestion and adhering to strict city regulations. Indy Excavating & Utilities prioritizes safety, quality, and customer satisfaction in every project we undertake.",
+        "localContext": "Indianapolis's urban environment requires careful planning and execution of excavation projects to minimize disruption to traffic, utilities, and surrounding businesses and residents.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities proudly serves Zionsville, Indiana, providing top-notch excavation services to homeowners and businesses alike. Known for its charming village atmosphere and upscale residential areas, Zionsville requires a delicate and professional approach to excavation projects. We are dedicated to delivering exceptional results while preserving the town's unique character.\n\nOur team is experienced in handling a wide range of excavation projects in Zionsville, from foundation work for new construction and home additions to drainage solutions and utility line installations. We understand the importance of minimizing disruption to residents and preserving the natural beauty of the area. Indy Excavating & Utilities is committed to providing reliable and efficient services, even during the cold Indiana winters.",
+        "localContext": "Zionsville's emphasis on preserving its historic charm and natural landscapes requires excavation practices that are sensitive to the environment and the aesthetic character of the community.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities is pleased to offer its expert excavation services to the growing community of Westfield, Indiana. As one of the fastest-growing cities in Indiana, Westfield presents a variety of excavation needs for residential and commercial properties. We are committed to providing top-quality workmanship and exceptional customer service to the residents and businesses of Westfield.\n\nWe specialize in excavation services tailored to the needs of Westfield's developing neighborhoods and commercial areas, including site preparation, foundation digging, utility trenching, and drainage solutions. Our team is equipped to handle the challenges of working in a rapidly growing city, ensuring minimal disruption to residents and preserving the integrity of existing landscaping. Indy Excavating & Utilities is committed to providing reliable and efficient services, even during the cold Indiana winters.",
+        "localContext": "Westfield's rapid growth and ongoing development mean that excavation projects often require close coordination with city planners and adherence to evolving building codes and regulations.",
+        "nearbyAreas": [
+          "Carmel",
+          "Zionsville",
+          "Sheridan"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities provides professional excavation services to the residents and businesses of Greenwood, Indiana. Located south of Indianapolis, Greenwood offers a mix of residential, commercial, and industrial properties, creating a diverse range of excavation needs. We are dedicated to providing reliable, efficient, and cost-effective solutions for all your excavation projects.\n\nOur team is experienced in handling a wide variety of excavation projects throughout Greenwood, including site preparation, foundation work, utility trenching, and drainage solutions. We understand the importance of minimizing disruption to residents and businesses while ensuring the safety and quality of our work. Indy Excavating & Utilities prioritizes clear communication, attention to detail, and customer satisfaction in every project we undertake.",
+        "localContext": "Greenwood's mix of residential and commercial development requires an excavation approach that is adaptable to different site conditions and regulatory requirements.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Whiteland"
+        ]
+      },
+      {
+        "city": "Lawrence",
+        "slug": "lawrence-in",
+        "state": "IN",
+        "content": "Indy Excavating & Utilities proudly serves the community of Lawrence, Indiana, providing comprehensive excavation services to meet the diverse needs of its residents and businesses. Located within Marion County, Lawrence offers a mix of established neighborhoods and commercial areas, each presenting unique excavation challenges and opportunities. We are committed to delivering exceptional results with a focus on quality and customer satisfaction.\n\nOur team is experienced in handling a variety of excavation projects in Lawrence, from residential site preparation to commercial utility installations. We understand the importance of minimizing disruption to the community and preserving the local environment. Indy Excavating & Utilities is dedicated to providing reliable and efficient services, even during the challenging Indiana winters.",
+        "localContext": "Lawrence's blend of residential and commercial development requires excavation services that are sensitive to the needs of both homeowners and business owners while adhering to local regulations and environmental considerations.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Fishers",
+          "McCordsville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Foundation Excavation",
+        "text": "Indy Excavating did an amazing job with our foundation excavation in Fishers. They were on time, professional, and very careful to protect our property. The excavation was perfectly level, and the foundation crew had no issues. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Utility Trenching",
+        "text": "We had Indy Excavating run a new gas line for our outdoor kitchen in Carmel. The job was done quickly and efficiently, and they cleaned up everything afterward. There was a slight delay due to weather, but they communicated well throughout the process.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "Our backyard in Broad Ripple was always soggy after it rained. Indy Excavating installed a French drain system, and now the water drains perfectly. They were knowledgeable, professional, and reasonably priced. Great service!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Site Preparation",
+        "text": "Indy Excavating prepared our lot for a new home build in Noblesville. Their team was meticulous and thorough, ensuring a level and stable foundation. They handled all the grading and compaction expertly. I would definitely use them again.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Demolition Services",
+        "text": "We hired Indy Excavating to demolish an old shed in our backyard. They did a great job removing the structure and cleaning up the debris. The only reason I didn't give them 5 stars is that there was a small delay getting the permit.",
+        "date": "2025-07-08"
+      },
+      {
+        "name": "Mike B.",
+        "rating": 5,
+        "service": "Land Clearing",
+        "text": "Indy Excavating cleared a large lot for us in Indianapolis, removing trees and brush efficiently. They were professional, responsive, and took care to minimize the impact on the surrounding environment. Highly recommended.",
+        "date": "2025-08-19"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Indy Excavating: Indianapolis Excavation Experts",
+        "description": "Indianapolis' trusted excavation contractor. Site prep, foundations, utilities, drainage. Serving Carmel, Fishers, Noblesville."
+      },
+      "about": {
+        "title": "About Indy Excavating & Utilities",
+        "description": "Learn about Indy Excavating & Utilities, Indianapolis' premier excavation contractor. Our commitment to quality and community."
+      },
+      "services": {
+        "title": "Excavation Services | Indy Excavating",
+        "description": "Comprehensive excavation services in Indianapolis. Site preparation, foundations, utilities, drainage, demolition, and land clearing."
+      },
+      "contact": {
+        "title": "Contact Indy Excavating & Utilities",
+        "description": "Contact Indy Excavating & Utilities for a free estimate. Serving Indianapolis, Carmel, Fishers, and Noblesville."
+      },
+      "reviews": {
+        "title": "Indy Excavating & Utilities Reviews",
+        "description": "Read reviews for Indy Excavating & Utilities. See why we're Indianapolis' trusted excavation contractor."
+      },
+      "service-areas": {
+        "title": "Service Areas | Indy Excavating",
+        "description": "Indy Excavating & Utilities service areas: Indianapolis, Carmel, Fishers, and Noblesville. Expert excavation services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-preparation": "/images/service-site-preparation.webp",
+      "foundation-excavation": "/images/service-foundation-excavation.webp",
+      "utility-trenching": "/images/service-utility-trenching.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "demolition-services": "/images/service-demolition-services.webp",
+      "land-clearing": "/images/service-land-clearing.webp"
+    },
+    "servicesResponsive": {
+      "site-preparation": {
+        "src": "/images/service-site-preparation.webp",
+        "srcset": "/images/service-site-preparation-400w.webp 400w, /images/service-site-preparation-800w.webp 800w, /images/service-site-preparation-1200w.webp 1200w, /images/service-site-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-excavation": {
+        "src": "/images/service-foundation-excavation.webp",
+        "srcset": "/images/service-foundation-excavation-400w.webp 400w, /images/service-foundation-excavation-800w.webp 800w, /images/service-foundation-excavation-1200w.webp 1200w, /images/service-foundation-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "utility-trenching": {
+        "src": "/images/service-utility-trenching.webp",
+        "srcset": "/images/service-utility-trenching-400w.webp 400w, /images/service-utility-trenching-800w.webp 800w, /images/service-utility-trenching-1200w.webp 1200w, /images/service-utility-trenching.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "demolition-services": {
+        "src": "/images/service-demolition-services.webp",
+        "srcset": "/images/service-demolition-services-400w.webp 400w, /images/service-demolition-services-800w.webp 800w, /images/service-demolition-services-1200w.webp 1200w, /images/service-demolition-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
